@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "685831727373",
+    "project_id": "ecommercesite-532ef",
+    "storage_bucket": "ecommercesite-532ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685831727373:android:eaeba1d29754221283a844",
+        "android_client_info": {
+          "package_name": "com.example.admin_web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEtNbwUWKlb724mmfg8z73tJ_wnTmYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685831727373-72gr7l74aflouu9etkr7smc7apg8v7pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685831727373:android:b0c8a944702dda8c83a844",
+        "android_client_info": {
+          "package_name": "com.example.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEtNbwUWKlb724mmfg8z73tJ_wnTmYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685831727373-72gr7l74aflouu9etkr7smc7apg8v7pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685831727373:android:f1e7ec38ac0e967183a844",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEtNbwUWKlb724mmfg8z73tJ_wnTmYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685831727373-72gr7l74aflouu9etkr7smc7apg8v7pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685831727373:android:c392f39d627ce6aa83a844",
+        "android_client_info": {
+          "package_name": "com.example.user_web_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEtNbwUWKlb724mmfg8z73tJ_wnTmYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685831727373-72gr7l74aflouu9etkr7smc7apg8v7pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riderApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685831727373:android:a984e2b08c533cb883a844",
+        "android_client_info": {
+          "package_name": "com.swiftdeals.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEtNbwUWKlb724mmfg8z73tJ_wnTmYTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685831727373-0orjsfun1ah0a56aiauq6g4f8aoulm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685831727373-72gr7l74aflouu9etkr7smc7apg8v7pu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riderApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

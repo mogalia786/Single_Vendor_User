@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ecommercesite-532ef",
+          "appId": "1:685831727373:android:a984e2b08c533cb883a844",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ecommercesite-532ef",
+          "configurations": {
+            "android": "1:685831727373:android:a984e2b08c533cb883a844",
+            "ios": "1:685831727373:ios:47112406844b53ec83a844",
+            "macos": "1:685831727373:ios:47112406844b53ec83a844",
+            "web": "1:685831727373:web:6b94b93e227fa24d83a844",
+            "windows": "1:685831727373:web:6f66a69b075d283683a844"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "site": "swift-deals-buy",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+to change logos replace 'assets/image/Swift deals 1024.png' with 'assets/image/Swift deals 1024.png'
